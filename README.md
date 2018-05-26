@@ -1,2 +1,2 @@
 # linear-algebra-fractal
-with p5.js
+[Reference](http://www.dam.brown.edu/people/mchb/la/fractals.pdf)
